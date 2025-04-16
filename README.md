@@ -39,10 +39,10 @@ Everything is for Free!
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
-- **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- **[Git Repository](https://github.com/PawanKumbhar25/SQL-Data-WareHouse-Project):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
-- **[Notion](https://www.notion.com/templates/sql-data-warehouse-project):** Get the Project Template from Notion
-- **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
+- **[Notion](https://www.notion.so/Data-Warehouse-Project-1cf1810f6821807d8498f87108c4202e):** Get the Project Template from Notion
+- **[Notion Project Steps](https://www.notion.so/Data-Warehouse-Project-1cf1810f6821807d8498f87108c4202e):** Access to All Project Phases and Tasks.
 
 ---
 
@@ -72,7 +72,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [docs/requirements.md](docs/requirements.md).
+For more details, refer to [requirements.md](requirements.md).
 
 ## 📂 Repository Structure
 ```
